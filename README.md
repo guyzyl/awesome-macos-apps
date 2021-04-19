@@ -3,6 +3,13 @@ There are a lot of recommendation lists for Mac out there.\
 After going over a few, testing out different options and using them for a while, this is mine 😄
 > It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier upgrades
 
+## Table of Contents
+1. [Utilities](#utilities)
+2. [Note Taking](#note-taking)
+3. [Dev](#dev)
+4. [Bash](#bash)
+5. [VSCode Extensions](#vscode-extensions)
+
 ## Utilities
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
