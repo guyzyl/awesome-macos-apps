@@ -3,7 +3,7 @@ There are a lot of recommendation lists for Mac out there.\
 After going over a few, testing out different options and using them for a while, this is mine 😄
 > It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier upgrades
 
-## Table of Contents
+## Contents
 1. [Utilities](#utilities)
 2. [Note Taking](#note-taking)
 3. [Dev](#dev)
