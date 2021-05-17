@@ -5,13 +5,14 @@ After going over a few, testing out different options and using them for a while
 
 ## Contents
 1. [Utilities](#utilities)
-2. [Note Taking](#note-taking)
-3. [Dev](#dev)
-4. [Dev - Framework Specific](#dev---framework-specific)
-5. [Bash](#bash)
-6. [VSCode Extensions](#vscode-extensions)
-7. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
-8. [Chrome Extensions](#chrome-extensions)
+2. [Media](#media)
+3. [Note Taking](#note-taking)
+4. [Dev](#dev)
+5. [Dev - Framework Specific](#dev---framework-specific)
+6. [Bash](#bash)
+7. [VSCode Extensions](#vscode-extensions)
+8. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
+9. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
@@ -20,7 +21,6 @@ After going over a few, testing out different options and using them for a while
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Flotato](https://www.flotato.com/) - Creates a Mac app from any web app. Really useful for Gmail, Calendar, GitHub, etc.. [`brew install --cask flotato`]
-- [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean clipboard manager [`brew install --cask maccy`]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
@@ -28,11 +28,14 @@ After going over a few, testing out different options and using them for a while
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once their last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
-- [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
 - [The Unarchiver](https://theunarchiver.com/) - Winrar for Mac [`brew install --cask the-unarchiver`]
-- [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
+
+## Media
+- [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
+- [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
+- [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
 ## Note Taking
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
