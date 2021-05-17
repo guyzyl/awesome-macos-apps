@@ -9,7 +9,8 @@ After going over a few, testing out different options and using them for a while
 3. [Dev](#dev)
 4. [Bash](#bash)
 5. [VSCode Extensions](#vscode-extensions)
-6. [Chrome Extensions](#chrome-extensions)
+6. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
+7. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
@@ -62,38 +63,40 @@ After going over a few, testing out different options and using them for a while
 
 ## VSCode Extensions
 This isn't actually related specifically to Mac, but I already made a list of recommendations so...
-- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
-- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
-- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc) [[Install](vscode:extension/sleistner.vscode-fileutils)]
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - `.gitignore` syntax highlighting [[Install](vscode:extension/codezombiech.gitignore)]
-- [GitLabCI Validator](https://marketplace.visualstudio.com/items?itemName=cstuder.gitlab-ci-validator) - Highlights mistakes in `.gitlab-ci.yml` file [[Install](vscode:extension/cstuder.gitlab-ci-validator)]
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharged Git capabilities [[Install](vscode:extension/eamodio.gitlens)]
-- [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) - (The official) Terraform language support [[Install](vscode:extension/HashiCorp.terraform)]
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Hightlights the matching HTML tag when selected [[Install](vscode:extension/vincaslt.highlight-matching-tag)]
 - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Preview images embedded in HTML/CSS [[Install](vscode:extension/kisstkondoros.vscode-gutter-preview)]
-- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS auto-complete [[Install](vscode:extension/Zignd.html-css-class-completion)]
-- [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja language server [[Install](vscode:extension/wholroyd.jinja)]
-- [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) - Less auto-complete [[Install](vscode:extension/mrmlnc.vscode-less)]
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
 - [Open in SourceTree](https://marketplace.visualstudio.com/items?itemName=morrislaptop.vscode-open-in-sourcetree) - Adds command for opening the projects git repo in Sourcetree [[Install](vscode:extension/morrislaptop.vscode-open-in-sourcetree)]
-- [openapi-lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint) - Lints and validates OpenAPI files [[Install](vscode:extension/mermade.openapi-lint)]
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Colorizers output in VSCode's panels [[Install](vscode:extension/IBM.output-colorizer)]
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Auto-complete for file paths [[Install](vscode:extension/christian-kohler.path-intellisense)]
 - [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Create "screenshots" of your code [[Install](vscode:extension/pnp.polacode)]
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - Pretiffies JSON files [[Install](vscode:extension/mohsen1.prettify-json)]
-- [Pseudocode](https://marketplace.visualstudio.com/items?itemName=willumz.generic-pseudocode) - Syntax highlighting for pseudocode [[Install](vscode:extension/willumz.generic-pseudocode)]
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support [[Install](vscode:extension/ms-python.python)]
-- [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) - Preview Swagger/OpenAPI files inside VSCode [[Install](vscode:extension/Arjun.swagger-viewer)]
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights trailing white-spaces [[Install](vscode:extension/shardulm94.trailing-spaces)]
 - [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams) - Preview sequence diagrams inside VSCode [[Install](vscode:extension/AleksandarDev.vscode-sequence-diagrams)]
 - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) - Control Spotify and see currently playing song in VSCode [[Install](vscode:extension/shyykoserhiy.vscode-spotify)]
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Track how your time is spent in VSCode [[Install](vscode:extension/WakaTime.vscode-wakatime)]
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
+
+## VSCode Extensions - Framework Specific
+- [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
+- [GitLabCI Validator](https://marketplace.visualstudio.com/items?itemName=cstuder.gitlab-ci-validator) - Highlights mistakes in `.gitlab-ci.yml` file [[Install](vscode:extension/cstuder.gitlab-ci-validator)]
+- [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) - (The official) Terraform language support [[Install](vscode:extension/HashiCorp.terraform)]
+- [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS auto-complete [[Install](vscode:extension/Zignd.html-css-class-completion)]
+- [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja language server [[Install](vscode:extension/wholroyd.jinja)]
+- [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) - Less auto-complete [[Install](vscode:extension/mrmlnc.vscode-less)]
+- [openapi-lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint) - Lints and validates OpenAPI files [[Install](vscode:extension/mermade.openapi-lint)]
+- [Pseudocode](https://marketplace.visualstudio.com/items?itemName=willumz.generic-pseudocode) - Syntax highlighting for pseudocode [[Install](vscode:extension/willumz.generic-pseudocode)]
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support [[Install](vscode:extension/ms-python.python)]
+- [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) - Preview Swagger/OpenAPI files inside VSCode [[Install](vscode:extension/Arjun.swagger-viewer)]
 
 ## Chrome Extensions
 - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en) - Good and working ad-blocker
