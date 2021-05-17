@@ -6,7 +6,7 @@ After going over a few, testing out different options and using them for a while
 ## Contents
 1. [Utilities](#utilities)
 2. [Media](#media)
-3. [Note Taking](#note-taking)
+3. [Notes and Documents](#notes-and-documents)
 4. [Dev](#dev)
 5. [Dev - Framework Specific](#dev---framework-specific)
 6. [Bash](#bash)
@@ -15,7 +15,6 @@ After going over a few, testing out different options and using them for a while
 9. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
-- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
@@ -37,7 +36,8 @@ After going over a few, testing out different options and using them for a while
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 - [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
-## Note Taking
+## Notes and Documents
+- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Caret](https://caret.io/) - Very clean markdown editor [`brew install --cask caret`]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
