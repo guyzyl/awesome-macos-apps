@@ -20,10 +20,15 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Flotato](https://www.flotato.com/) - Creates a Mac app from any web app. Really useful for Gmail, Calendar, GitHub, etc.. [`brew install --cask flotato`]
+- [GOG Galaxy](https://www.gog.com/galaxy) - Unites all purchased games and friends into a single platform [`brew install --cask gog-galaxy`]
+- [Google Chrome](https://www.google.com/chrome/) - World's most common web browser [`brew install --cask google-chrome`]
+- [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean clipboard manager [`brew install --cask maccy`]
-- [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
+- [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Noti](https://noti.center/) - Receive (and respond to) Android notifications on Mac [`brew install --cask noti` + [this](https://www.pushbullet.com/)]
+- [Parcel](https://parcelapp.net/) - A clean package delivery tracker [[Download](https://apps.apple.com/app/parcel-delivery-tracking/id639968404)]
+- [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once their last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
@@ -33,6 +38,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 ## Media
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
+- [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 - [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
@@ -40,11 +46,14 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Caret](https://caret.io/) - Very clean markdown editor [`brew install --cask caret`]
+- [Microsoft Office](https://www.office.com/) - Document editing (you know what it is) [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
+- [Pitch](https://pitch.com/) - Modern powerpoint alternative with really nice built-in templates [`brew install --cask pitch`]
 
 ## Dev
 - [Dash](https://kapeli.com/dash) - API documentation browser [`brew install --cask dash`]
 - [Fira Code](https://github.com/tonsky/FiraCode) - An open-source font designed specifically for better and easier code readability [`brew tap homebrew/cask-fonts && brew install --cask font-fira-code` + [this](https://github.com/tonsky/FiraCode/wiki#enabling-ligatures)]
+- [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
 - [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
 - [Insomnia](https://insomnia.rest/products/insomnia) - Clean API client and design tool [`brew install --cask insomnia`]
 - [Postman](https://www.postman.com/) - Good API testing utility [`brew install --cask postman`]
@@ -62,6 +71,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
+- [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
 - [Bash Completion](https://github.com/scop/bash-completion) - Expanded bash auto-complete + extensions [`brew install bash-completion`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
 - [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
@@ -112,6 +122,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 ## Chrome Extensions
 - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en) - Good and working ad-blocker
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en) - An open source password manager
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
 - [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
 - [File Icons for Github and Gitlab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds file icons to GitHub + Gitlab, makes looking at repos online easier
 - [Simplify Gmail](https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbglnbfcbcojpj?hl=en) - Cleans Gmail up and removes unnecessary bloat
