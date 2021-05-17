@@ -7,10 +7,11 @@ After going over a few, testing out different options and using them for a while
 1. [Utilities](#utilities)
 2. [Note Taking](#note-taking)
 3. [Dev](#dev)
-4. [Bash](#bash)
-5. [VSCode Extensions](#vscode-extensions)
-6. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
-7. [Chrome Extensions](#chrome-extensions)
+4. [Dev - Framework Specific](#dev---framework-specific)
+5. [Bash](#bash)
+6. [VSCode Extensions](#vscode-extensions)
+7. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
+8. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
@@ -40,7 +41,6 @@ After going over a few, testing out different options and using them for a while
 
 ## Dev
 - [Dash](https://kapeli.com/dash) - API documentation browser [`brew install --cask dash`]
-- [Docker](https://www.docker.com/) - Google it [`brew install docker`]
 - [Fira Code](https://github.com/tonsky/FiraCode) - An open-source font designed specifically for better and easier code readability [`brew tap homebrew/cask-fonts && brew install --cask font-fira-code` + [this](https://github.com/tonsky/FiraCode/wiki#enabling-ligatures)]
 - [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
 - [Insomnia](https://insomnia.rest/products/insomnia) - Clean API client and design tool [`brew install --cask insomnia`]
@@ -49,6 +49,14 @@ After going over a few, testing out different options and using them for a while
 - [Sublime Text](https://www.sublimetext.com/) - Really simple and good text/code editor [`brew install --cask sublime-text`]
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
+
+## Dev - Framework Specific
+- [Docker](https://www.docker.com/) - [`brew install --cask docker`]
+- [Go](https://golang.org/) - [`brew install go`]
+- [Node.js](https://nodejs.org/en/) - [`brew install node`]
+- [Python](https://www.python.org/) - [`brew install python@3`]
+- [Rust](https://www.rust-lang.org/) - [`brew install rust`]
+- [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
 - [Bash Completion](https://github.com/scop/bash-completion) - Expanded bash auto-complete + extensions [`brew install bash-completion`]
