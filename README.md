@@ -72,9 +72,9 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 ## Bash
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
-- [Bash Completion](https://github.com/scop/bash-completion) - Expanded bash auto-complete + extensions [`brew install bash-completion`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
 - [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
+- [Fig](https://fig.io/) - Autocomplete for the terminal, works like a charm
 - [The Fuck](https://github.com/nvbn/thefuck) - "Autocorrect" for bash [`brew install thefuck`]
 - [htop](https://htop.dev/) - Process manager for bash [`brew install htop`]
 - [iTerm](https://iterm2.com/) - A better terminal then the built in one [`brew install --cask iterm2`]
