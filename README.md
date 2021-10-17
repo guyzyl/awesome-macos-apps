@@ -96,7 +96,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Colorizers output in VSCode's panels [[Install](vscode:extension/IBM.output-colorizer)]
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Auto-complete for file paths [[Install](vscode:extension/christian-kohler.path-intellisense)]
 - [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Create "screenshots" of your code [[Install](vscode:extension/pnp.polacode)]
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code [[Install](vscode:extension/adpyke.codesnap)]
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - Pretiffies JSON files [[Install](vscode:extension/mohsen1.prettify-json)]
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights trailing white-spaces [[Install](vscode:extension/shardulm94.trailing-spaces)]
 - [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams) - Preview sequence diagrams inside VSCode [[Install](vscode:extension/AleksandarDev.vscode-sequence-diagrams)]
