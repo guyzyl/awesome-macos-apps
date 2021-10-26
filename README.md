@@ -49,6 +49,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Microsoft Office](https://www.office.com/) - Document editing (you know what it is) [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
 - [Pitch](https://pitch.com/) - Modern powerpoint alternative with really nice built-in templates [`brew install --cask pitch`]
+- [Grammarly](https://www.grammarly.com/) - Makes sure everything you type is correct, clear, and easy to read [`brew install --cask grammarly`]
 
 ## Dev
 - [Dash](https://kapeli.com/dash) - API documentation browser [`brew install --cask dash`]
