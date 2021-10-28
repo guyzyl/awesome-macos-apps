@@ -10,9 +10,11 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 4. [Dev](#dev)
 5. [Dev - Framework Specific](#dev---framework-specific)
 6. [Bash](#bash)
-7. [VSCode Extensions](#vscode-extensions)
-8. [VSCode Extensions - Framework Specific](#vscode-extensions---framework-specific)
-9. [Chrome Extensions](#chrome-extensions)
+7. [VSCode](#vscode)
+    1. [Themes](#themes)
+    1. [Extensions](#extensions)
+    2. [Extensions - Framework Specific](#extensions---framework-specific)
+8. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
@@ -90,7 +92,8 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
 - [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
 
-### VSCode Extensions
+
+### Extensions
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc) [[Install](vscode:extension/sleistner.vscode-fileutils)]
@@ -109,7 +112,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
-### VSCode Extensions - Framework Specific
+### Extensions - Framework Specific
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
