@@ -111,7 +111,6 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
-## VSCode Extensions - Framework Specific
 ### VSCode Extensions - Framework Specific
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
