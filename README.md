@@ -24,12 +24,12 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Google Chrome](https://www.google.com/chrome/) - World's most common web browser [`brew install --cask google-chrome`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
-- [Maccy](https://github.com/p0deje/Maccy) - Clean clipboard manager [`brew install --cask maccy`]
+- [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Noti](https://noti.center/) - Receive (and respond to) Android notifications on Mac [`brew install --cask noti` + [this](https://www.pushbullet.com/)]
 - [Parcel](https://parcelapp.net/) - A clean package delivery tracker [[Download](https://apps.apple.com/app/parcel-delivery-tracking/id639968404)]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
-- [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once their last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
+- [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once the last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
@@ -43,7 +43,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
 ## Notes and Documents
-- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The most common PDF reader [`brew install --cask adobe-acrobat-reader`]
+- [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The PDF reader that sucks the least [`brew install --cask adobe-acrobat-reader`]
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Caret](https://caret.io/) - Very clean markdown editor [`brew install --cask caret`]
 - [Microsoft Office](https://www.office.com/) - Document editing (you know what it is) [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
@@ -105,7 +105,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights trailing white-spaces [[Install](vscode:extension/shardulm94.trailing-spaces)]
 - [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams) - Preview sequence diagrams inside VSCode [[Install](vscode:extension/AleksandarDev.vscode-sequence-diagrams)]
 - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) - Control Spotify and see currently playing song in VSCode [[Install](vscode:extension/shyykoserhiy.vscode-spotify)]
-- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Track how your time is spent in VSCode [[Install](vscode:extension/WakaTime.vscode-wakatime)]
+- [WakaTime](https://wakatime.com/) - Track how your time is spent in VSCode [[Install](vscode:extension/WakaTime.vscode-wakatime)]
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
