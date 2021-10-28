@@ -57,7 +57,6 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
 - [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
 - [Insomnia](https://insomnia.rest/products/insomnia) - Clean API client and design tool [`brew install --cask insomnia`]
-- [Postman](https://www.postman.com/) - Good API testing utility [`brew install --cask postman`]
 - [Sourcetree](https://www.sourcetreeapp.com/) - Clean and simple Git client app [`brew install --cask sourcetree`]
 - [Sublime Text](https://www.sublimetext.com/) - Really simple and good text/code editor [`brew install --cask sublime-text`]
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
@@ -66,12 +65,15 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Dev - Framework Specific
 - [Docker](https://www.docker.com/) - [`brew install --cask docker`]
 - [Go](https://golang.org/) - [`brew install go`]
+- [Helm](https://helm.sh/) - [`brew install helm`]
+- [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
 - [Node.js](https://nodejs.org/en/) - [`brew install node`]
 - [Python](https://www.python.org/) - [`brew install python@3`]
 - [Rust](https://www.rust-lang.org/) - [`brew install rust`]
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
+- [act](https://github.com/nektos/act) - Run GitHub Actions locally [`brew install act`]
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
 - [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
@@ -89,11 +91,14 @@ This isn't actually related specifically to Mac, but I already made a list of re
 ### Themes
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
 - [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
+- [Serendipity](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity) - A colorful theme built specifically for retina displays [[Install](vscode:extension/wicked-labs.wvsc-serendipity)]
 
 ### VSCode Extensions
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code [[Install](vscode:extension/adpyke.codesnap)]
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc) [[Install](vscode:extension/sleistner.vscode-fileutils)]
+- [GitHub Copilot](https://copilot.github.com/) - Incredible AI autocomplete for code [[Install](vscode:extension/github.copilot)]
 - [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - `.gitignore` syntax highlighting [[Install](vscode:extension/codezombiech.gitignore)]
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharged Git capabilities [[Install](vscode:extension/eamodio.gitlens)]
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Hightlights the matching HTML tag when selected [[Install](vscode:extension/vincaslt.highlight-matching-tag)]
@@ -122,14 +127,15 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Pseudocode](https://marketplace.visualstudio.com/items?itemName=willumz.generic-pseudocode) - Syntax highlighting for pseudocode [[Install](vscode:extension/willumz.generic-pseudocode)]
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support [[Install](vscode:extension/ms-python.python)]
 - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) - Preview Swagger/OpenAPI files inside VSCode [[Install](vscode:extension/Arjun.swagger-viewer)]
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VSCode [[Install](vscode:extension/octref.vetur)]
 
 ## Chrome Extensions
-- [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en) - Good and working ad-blocker
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en) - An open source password manager
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
 - [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
 - [File Icons for Github and Gitlab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds file icons to GitHub + Gitlab, makes looking at repos online easier
 - [Simplify Gmail](https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbglnbfcbcojpj?hl=en) - Cleans Gmail up and removes unnecessary bloat
 - [TunnelBear VPN](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa?hl=en) - Good and legit VPN, 1.5GB free per month
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - A good open-source and efficient ad blocker
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Shows the stack the website you're on is using
 - [Zoom Closer](https://chrome.google.com/webstore/detail/zoom-closer/appjbedfhcmpknanmbndpojcllfaemal?hl=en) - Automatically closes the annoying "Opening Zoom" tabs
