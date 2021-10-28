@@ -83,8 +83,14 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
 - [k9s](https://k9scli.io/) - Comprehensive CLI manager for Kubernetes [`brew install k9s`]
 
-## VSCode Extensions
+## VSCode
 This isn't actually related specifically to Mac, but I already made a list of recommendations so...
+
+### Themes
+- [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
+- [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
+
+### VSCode Extensions
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Command pallete for file management (duplicate, rename, etc) [[Install](vscode:extension/sleistner.vscode-fileutils)]
@@ -92,12 +98,9 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharged Git capabilities [[Install](vscode:extension/eamodio.gitlens)]
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Hightlights the matching HTML tag when selected [[Install](vscode:extension/vincaslt.highlight-matching-tag)]
 - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview) - Preview images embedded in HTML/CSS [[Install](vscode:extension/kisstkondoros.vscode-gutter-preview)]
-- [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
 - [Open in SourceTree](https://marketplace.visualstudio.com/items?itemName=morrislaptop.vscode-open-in-sourcetree) - Adds command for opening the projects git repo in Sourcetree [[Install](vscode:extension/morrislaptop.vscode-open-in-sourcetree)]
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Colorizers output in VSCode's panels [[Install](vscode:extension/IBM.output-colorizer)]
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Auto-complete for file paths [[Install](vscode:extension/christian-kohler.path-intellisense)]
-- [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
-- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code [[Install](vscode:extension/adpyke.codesnap)]
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - Pretiffies JSON files [[Install](vscode:extension/mohsen1.prettify-json)]
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights trailing white-spaces [[Install](vscode:extension/shardulm94.trailing-spaces)]
 - [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams) - Preview sequence diagrams inside VSCode [[Install](vscode:extension/AleksandarDev.vscode-sequence-diagrams)]
@@ -106,7 +109,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
-## VSCode Extensions - Framework Specific
+### VSCode Extensions - Framework Specific
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
