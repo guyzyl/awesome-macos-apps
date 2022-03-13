@@ -1,9 +1,11 @@
 # Awesome macOS Apps
+
 There are a lot of recommendation lists for Mac out there.\
 After going over a few and testing stuff out, this is an opinionated list of **tools and apps I actually use**.
 > It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier upgrades
 
 ## Contents
+
 1. [Utilities](#utilities)
 2. [Media](#media)
 3. [Notes and Documents](#notes-and-documents)
@@ -12,11 +14,12 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 6. [Bash](#bash)
 7. [VSCode](#vscode)
     1. [Themes](#themes)
-    1. [Extensions](#extensions)
-    2. [Extensions - Framework Specific](#extensions---framework-specific)
+    2. [Extensions](#extensions)
+    3. [Extensions - Framework Specific](#extensions---framework-specific)
 8. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
+
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
@@ -38,12 +41,14 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
 
 ## Media
+
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
 - [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 - [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
 ## Notes and Documents
+
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The PDF reader that sucks the least [`brew install --cask adobe-acrobat-reader`]
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Caret](https://caret.io/) - Very clean markdown editor [`brew install --cask caret`]
@@ -53,6 +58,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Grammarly](https://www.grammarly.com/) - Makes sure everything you type is correct, clear, and easy to read [`brew install --cask grammarly`]
 
 ## Dev
+
 - [Dash](https://kapeli.com/dash) - API documentation browser [`brew install --cask dash`]
 - [Fira Code](https://github.com/tonsky/FiraCode) - An open-source font designed specifically for better and easier code readability [`brew tap homebrew/cask-fonts && brew install --cask font-fira-code` + [this](https://github.com/tonsky/FiraCode/wiki#enabling-ligatures)]
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
@@ -64,6 +70,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
 
 ## Dev - Framework Specific
+
 - [Docker](https://www.docker.com/) - [`brew install --cask docker`]
 - [Go](https://golang.org/) - [`brew install go`]
 - [Helm](https://helm.sh/) - [`brew install helm`]
@@ -74,6 +81,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
+
 - [act](https://github.com/nektos/act) - Run GitHub Actions locally [`brew install act`]
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
@@ -88,15 +96,17 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features
 
 ## VSCode
+
 This isn't actually related specifically to Mac, but I already made a list of recommendations so...
 
 ### Themes
+
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night) - Sublime Text like theme [[Install](vscode:extension/fabiospampinato.vscode-monokai-night)]
 - [Plastic](https://marketplace.visualstudio.com/items?itemName=will-stone.plastic) - My favorite VSCode theme [[Install](vscode:extension/will-stone.plastic)]
 - [Serendipity](https://marketplace.visualstudio.com/items?itemName=wicked-labs.wvsc-serendipity) - A colorful theme built specifically for retina displays [[Install](vscode:extension/wicked-labs.wvsc-serendipity)]
 
-
 ### Extensions
+
 - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) - Colors matching brackets [[Install](vscode:extension/CoenraadS.bracket-pair-colorizer-2)]
 - [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - Create "screenshots" of your code [[Install](vscode:extension/adpyke.codesnap)]
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug JS in Chrome [[Install](vscode:extension/msjsdiag.debugger-for-chrome)]
@@ -118,6 +128,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
 ### Extensions - Framework Specific
+
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
@@ -133,6 +144,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VSCode [[Install](vscode:extension/octref.vetur)]
 
 ## Chrome Extensions
+
 - [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en) - An open source password manager
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
 - [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
