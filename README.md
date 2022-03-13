@@ -29,7 +29,6 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Noti](https://noti.center/) - Receive (and respond to) Android notifications on Mac [`brew install --cask noti` + [this](https://www.pushbullet.com/)]
-- [Parcel](https://parcelapp.net/) - A clean package delivery tracker [[Download](https://apps.apple.com/app/parcel-delivery-tracking/id639968404)]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once the last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts [`brew install --cask rocket`]
@@ -78,14 +77,15 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [act](https://github.com/nektos/act) - Run GitHub Actions locally [`brew install act`]
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
+- [Bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting [`brew install bat`]
 - [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
-- [Fig](https://fig.io/) - Autocomplete for the terminal, works like a charm
 - [The Fuck](https://github.com/nvbn/thefuck) - "Autocorrect" for bash [`brew install thefuck`]
 - [htop](https://htop.dev/) - Process manager for bash [`brew install htop`]
-- [iTerm](https://iterm2.com/) - A better terminal then the built in one [`brew install --cask iterm2`]
-- [Vim](https://neovim.io/) - The best CLI text/code editor [`brew install neovim`]
-- [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
 - [k9s](https://k9scli.io/) - Comprehensive CLI manager for Kubernetes [`brew install k9s`]
+- [tldr](https://github.com/tldr-pages/tldr) - tl;dr for bash commands [`brew install tldr`]
+- [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
+- [Vim](https://neovim.io/) - The best CLI text/code editor [`brew install neovim`]
+- [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features
 
 ## VSCode
 This isn't actually related specifically to Mac, but I already made a list of recommendations so...
