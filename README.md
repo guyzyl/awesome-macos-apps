@@ -78,8 +78,8 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Helm](https://helm.sh/) - [`brew install helm`]
 - [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
 - [Node.js](https://nodejs.org/en/) - [`brew install node`]
-- [Python](https://www.python.org/) - [`brew install python@3`]
-- [Rust](https://www.rust-lang.org/) - [`brew install rust`]
+- [PyEnv](https://github.com/pyenv/pyenv) - A better way to install and manage Python installations [`brew install pyenv`]
+- [Rust](https://www.rust-lang.org/) - [`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`]
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
