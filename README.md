@@ -32,12 +32,14 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Noti](https://noti.center/) - Receive (and respond to) Android notifications on Mac [`brew install --cask noti` + [this](https://www.pushbullet.com/)]
+- [Raycast](https://www.raycast.com/) - A supercharged alternative to the Mac launcher [`brew install --cask raycast`]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once the last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
 - [The Unarchiver](https://theunarchiver.com/) - Winrar for Mac [`brew install --cask the-unarchiver`]
+- [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
 
 ## Media
