@@ -71,7 +71,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Go](https://golang.org/) - [`brew install go`]
 - [Helm](https://helm.sh/) - [`brew install helm`]
 - [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
-- [Node.js](https://nodejs.org/en/) - [`brew install node`]
+- [nvm](https://github.com/nvm-sh/nvm) - Node version manager [`brew install node`]
 - [PyEnv](https://github.com/pyenv/pyenv) - A better way to install and manage Python installations [`brew install pyenv`]
 - [Rust](https://www.rust-lang.org/) - [`brew install rustup-init`]
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
