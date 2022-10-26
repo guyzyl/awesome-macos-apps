@@ -1,8 +1,9 @@
 # Awesome macOS Apps
 
-There are a lot of recommendation lists for Mac out there.\
+There are a lot of recommendation lists for Mac out there.
+
 After going over a few and testing stuff out, this is an opinionated list of **tools and apps I actually use**.
-> It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier upgrades
+> It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier installation and upgrade management.
 
 ## Contents
 
@@ -34,7 +35,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once the last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
-- [The Unarchiver](https://theunarchiver.com/) - Winrar for Mac [`brew install --cask the-unarchiver`]
+- [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
 
@@ -49,8 +50,8 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 - [Adobe Acrobat Reader](https://get.adobe.com/reader/) - The PDF reader that sucks the least [`brew install --cask adobe-acrobat-reader`]
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
-- [Caret](https://caret.io/) - Very clean markdown editor [`brew install --cask caret`]
-- [Microsoft Office](https://www.office.com/) - Document editing (you know what it is) [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
+- [Caret](https://caret.io/) - Clean markdown editor [`brew install --cask caret`]
+- [Microsoft Office](https://www.office.com/) - You know what it is [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
 
 ## Dev
@@ -72,19 +73,19 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
 - [Node.js](https://nodejs.org/en/) - [`brew install node`]
 - [PyEnv](https://github.com/pyenv/pyenv) - A better way to install and manage Python installations [`brew install pyenv`]
-- [Rust](https://www.rust-lang.org/) - [`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`]
+- [Rust](https://www.rust-lang.org/) - [`brew install rustup-init`]
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
 ## Bash
 
 - [act](https://github.com/nektos/act) - Run GitHub Actions locally [`brew install act`]
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
-- [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Shows git status in command prompt when in a git project folder [`brew install bash-git-prompt`]
+- [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Show git status in command prompt [`brew install bash-git-prompt`]
 - [Bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting [`brew install bat`]
 - [Fast CLI](https://github.com/sindresorhus/fast-cli) - CLI client for [fast.com](https://fast.com) [`npm install --global fast-cli`]
 - [The Fuck](https://github.com/nvbn/thefuck) - "Autocorrect" for bash [`brew install thefuck`]
 - [htop](https://htop.dev/) - Process manager for bash [`brew install htop`]
-- [k9s](https://k9scli.io/) - Comprehensive CLI manager for Kubernetes [`brew install k9s`]
+- [k9s](https://k9scli.io/) - Awesome and comprehensive CLI manager for Kubernetes [`brew install k9s`]
 - [tldr](https://github.com/tldr-pages/tldr) - tl;dr for bash commands [`brew install tldr`]
 - [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
 - [Vim](https://neovim.io/) - The best CLI text/code editor [`brew install neovim`]
