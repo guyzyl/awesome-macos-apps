@@ -143,6 +143,7 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass paywall on lots of popular news sites
 - [Earth View from Google Earth](https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en) - A pretty Google Earth image on every new tab you open
 - [File Icons for Github and Gitlab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe?hl=en) - Adds file icons to GitHub + Gitlab, makes looking at repos online easier
+- [Google Analytics Opt-out](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh?hl=en) - Make Google track you less when surfing the web
 - [Simplify Gmail](https://chrome.google.com/webstore/detail/simplify-gmail/pbmlfaiicoikhdbjagjbglnbfcbcojpj?hl=en) - Cleans Gmail up and removes unnecessary bloat
 - [TunnelBear VPN](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa?hl=en) - Good and legit VPN, 1.5GB free per month
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en) - A good open-source and efficient ad blocker
