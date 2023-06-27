@@ -3,6 +3,7 @@
 There are a lot of recommendation lists for Mac out there.
 
 After going over a few and testing stuff out, this is an opinionated list of **tools and apps I actually use**.
+
 > It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier installation and upgrade management.
 
 ## Contents
@@ -14,27 +15,27 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 5. [Dev - Framework Specific](#dev---framework-specific)
 6. [Bash](#bash)
 7. [VSCode](#vscode)
-    1. [Themes](#themes)
-    2. [Extensions](#extensions)
-    3. [Extensions - Framework Specific](#extensions---framework-specific)
+   1. [Themes](#themes)
+   2. [Extensions](#extensions)
+   3. [Extensions - Framework Specific](#extensions---framework-specific)
 8. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
 
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
+- [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
-- [Flotato](https://www.flotato.com/) - Creates a Mac app from any web app. Really useful for Gmail, Calendar, GitHub, etc.. [`brew install --cask flotato`]
-- [Google Chrome](https://www.google.com/chrome/) - World's most common web browser [`brew install --cask google-chrome`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
+- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [[download](https://github.com/milgra/macmediakeyforwarder/releases)]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
-- [RedQuits](http://www.carsten-mielke.com/redquits.html) - Automatically "quits" applications once the last window is closed [[Download](http://www.carsten-mielke.com/redquits.html)]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
+- [Swift Quit](https://swiftquit.com/) - Automatically "quits" applications once the last window is closed [`brew install --cask swift-quit`]
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
