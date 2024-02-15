@@ -4,7 +4,7 @@ There are a lot of recommendation lists for Mac out there.
 
 After going over a few and testing stuff out, this is an opinionated list of **tools and apps I actually use**.
 
-> It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS  package manager) for easier installation and upgrade management.
+> It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS package manager) for easier installation and upgrade management.
 
 ## Contents
 
@@ -28,14 +28,14 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
+- [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [`brew install --cask intellibar`]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
-- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [[download](https://github.com/milgra/macmediakeyforwarder/releases)]
+- [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [`brew install --cask macmediakeyforwarder`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts everywhere [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
-- [SpotMenu](https://kmikiy.github.io/SpotMenu/) - Spotify mini-player for the menu bar [`brew install --cask spotmenu`]
 - [Swift Quit](https://swiftquit.com/) - Automatically "quits" applications once the last window is closed [`brew install --cask swift-quit`]
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
@@ -66,6 +66,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Sublime Text](https://www.sublimetext.com/) - Really simple and good text/code editor [`brew install --cask sublime-text`]
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
+- [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features [`brew install --cask warp`]
 
 ## Dev - Framework Specific
 
@@ -91,7 +92,6 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [tldr](https://github.com/tldr-pages/tldr) - tl;dr for bash commands [`brew install tldr`]
 - [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
 - [Vim](https://neovim.io/) - The best CLI text/code editor [`brew install neovim`]
-- [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features
 
 ## VSCode
 
@@ -118,26 +118,31 @@ This isn't actually related specifically to Mac, but I already made a list of re
 - [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer) - Colorizers output in VSCode's panels [[Install](vscode:extension/IBM.output-colorizer)]
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Auto-complete for file paths [[Install](vscode:extension/christian-kohler.path-intellisense)]
 - [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) - Pretiffies JSON files [[Install](vscode:extension/mohsen1.prettify-json)]
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlights TODOs, FIXMEs, etc in your code [Install](vscode:extension/wayou.vscode-todo-highlight)
 - [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) - Highlights trailing white-spaces [[Install](vscode:extension/shardulm94.trailing-spaces)]
 - [vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) - Control Spotify and see currently playing song in VSCode [[Install](vscode:extension/shyykoserhiy.vscode-spotify)]
 - [WakaTime](https://wakatime.com/) - Track how your time is spent in VSCode [[Install](vscode:extension/WakaTime.vscode-wakatime)]
-- [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) - XML "language" support [[Install](vscode:extension/DotJoshJohnson.xml)]
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - XML "language" support [[Install](vscode:extension/redhat.vscode-xml)]
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML "language" support [[Install](vscode:extension/redhat.vscode-yaml)]
 
 ### Extensions - Framework Specific
 
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) - Angular "language" support [[Install](vscode:extension/Angular.ng-template)]
 - [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml) - Improved TOML syntax highlighting [[Install](vscode:extension/bungcip.better-toml)]
+- [Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter) - Python code formatter [[Install](vscode:extension/ms-python.black-formatter)]
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - Dockerfile syntax highlighting + management tools (build, run, etc) [[Install](vscode:extension/ms-azuretools.vscode-docker)]
 - [HashiCorp Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform) - (The official) Terraform language support [[Install](vscode:extension/HashiCorp.terraform)]
 - [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) - CSS auto-complete [[Install](vscode:extension/Zignd.html-css-class-completion)]
 - [Jinja](https://marketplace.visualstudio.com/items?itemName=wholroyd.jinja) - Jinja language server [[Install](vscode:extension/wholroyd.jinja)]
 - [Less IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-less) - Less auto-complete [[Install](vscode:extension/mrmlnc.vscode-less)]
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linter [Install](vscode:extension/DavidAnson.vscode-markdownlint)
 - [openapi-lint](https://marketplace.visualstudio.com/items?itemName=mermade.openapi-lint) - Lints and validates OpenAPI files [[Install](vscode:extension/mermade.openapi-lint)]
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Web stack code formatter [Install](vscode:extension/esbenp.prettier-vscode)
 - [Pseudocode](https://marketplace.visualstudio.com/items?itemName=willumz.generic-pseudocode) - Syntax highlighting for pseudocode [[Install](vscode:extension/willumz.generic-pseudocode)]
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python language support [[Install](vscode:extension/ms-python.python)]
+- [Ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) - Ruff language support [[Install](vscode:extension/charliermarsh.ruff)]
 - [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) - Preview Swagger/OpenAPI files inside VSCode [[Install](vscode:extension/Arjun.swagger-viewer)]
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Vue tooling for VSCode [[Install](vscode:extension/octref.vetur)]
+- [Vue Language Features (volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) - Vue tooling for VSCode [[Install](vscode:extension/Vue.volar)]
 
 ## Chrome Extensions
 
