@@ -38,15 +38,15 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [Swift Quit](https://swiftquit.com/) - Automatically "quits" applications once the last window is closed [`brew install --cask swift-quit`]
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
-- [UTM](https://mac.getutm.app/) - Free VMs for mac (works even on Apple proccessors) [`brew install --cask utm`]
+- [VMware Fusion](https://www.vmware.com/products/fusion.html) - The best VMs for Mac (it's free for personal use) [`brew install --cask vmware-fusion`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
+- [Zoom](https://zoom.us/) - Zoom Mac client [`brew install --cask zoom`]
 
 ## Media
 
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
 - [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
-- [VLC](https://www.videolan.org/) - Plays any video [`brew install --cask vlc`]
 
 ## Notes and Documents
 
@@ -67,15 +67,19 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
 - [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features [`brew install --cask warp`]
+- [Wireshark](wireshark.org/) - The best networks protocol analyzer/sniffer [`brew install --cask wireshark`]
 
 ## Dev - Framework Specific
 
-- [Docker](https://www.docker.com/) - [`brew install --cask docker`]
 - [Go](https://golang.org/) - [`brew install go`]
 - [Helm](https://helm.sh/) - [`brew install helm`]
 - [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
+- [Leapp](https://leapp.cloud) - Manage access to multiple cloud accounts - [`brew install --cask leapp`]
+- [minikube](https://github.com/kubernetes/minikube) - An easy to work with local k8s cluster - [`brew install minikube`]
 - [nvm](https://github.com/nvm-sh/nvm) - Node version manager [`brew install node`]
+- [OrbStack](https://orbstack.dev/) - Run and build Docker containers, but faster! [`brew install --cask orbstack`]
 - [PyEnv](https://github.com/pyenv/pyenv) - A better way to install and manage Python installations [`brew install pyenv`]
+- [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) - The best Redis UI out there [`brew install --cask redisinsight`]
 - [Rust](https://www.rust-lang.org/) - [`brew install rustup-init`]
 - [Terraform](https://www.terraform.io/) - [`brew install terraform`]
 
