@@ -4,7 +4,7 @@ There are a lot of recommendation lists for Mac out there.
 
 After going over a few and testing stuff out, this is an opinionated list of **tools and apps I actually use**.
 
-> It's recommended to install everything using [Homebrew](https://docs.brew.sh/Installation) (the open source macOS package manager) for easier installation and upgrade management.
+> It's recommended to install everything using [Homebrew](https://brew.sh/) (the open source macOS package manager) for easier installation and upgrade management.
 
 ## Contents
 
