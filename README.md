@@ -76,7 +76,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Kubernetes CLI](https://kubernetes.io/) - [`brew install kubernetes-cli`]
 - [Leapp](https://leapp.cloud) - Manage access to multiple cloud accounts - [`brew install --cask leapp`]
 - [minikube](https://github.com/kubernetes/minikube) - An easy to work with local k8s cluster - [`brew install minikube`]
-- [nvm](https://github.com/nvm-sh/nvm) - Node version manager [`brew install node`]
+- [nvm](https://github.com/nvm-sh/nvm) - Node version manager [`brew install nvm`]
 - [OrbStack](https://orbstack.dev/) - Run and build Docker containers, but faster! [`brew install --cask orbstack`]
 - [PyEnv](https://github.com/pyenv/pyenv) - A better way to install and manage Python installations [`brew install pyenv`]
 - [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) - The best Redis UI out there [`brew install --cask redisinsight`]
