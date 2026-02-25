@@ -54,6 +54,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Microsoft Office](https://www.office.com/) - You know what it is [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
+- [Taskade](https://www.taskade.com/) - AI-native workspace for tasks, notes, and team collaboration with built-in AI agents [[Download](https://apps.apple.com/app/taskade-team-productivity/id1490048917)]
 
 ## Dev
 
