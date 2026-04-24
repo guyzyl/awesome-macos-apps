@@ -22,6 +22,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 ## Utilities
 
+- [AI Dictation](https://aidictation.com/) - Speech-to-text dictation for Mac that auto-switches between offline and online engines, with AI cleanup that removes filler words, fixes grammar, and formats text per app [[Download](https://aidictation.com/download)]
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
