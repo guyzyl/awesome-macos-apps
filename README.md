@@ -32,6 +32,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [`brew install --cask macmediakeyforwarder`]
+- [Mac Mouse Fixer](https://www.macfix.click/) - Fixes accidental double-clicks and adds smooth scrolling, horizontal scrolling, and wheel zoom for external mice [[Download](https://www.macfix.click/)].
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts everywhere [`brew install --cask rocket`]
