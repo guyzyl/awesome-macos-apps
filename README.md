@@ -40,6 +40,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [VMware Fusion](https://www.vmware.com/products/fusion.html) - The best VMs for Mac (it's free for personal use) [`brew install --cask vmware-fusion`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
+- [Yap](https://github.com/FrigadeHQ/yap) - On-device voice dictation from the menu bar with no model to download [`brew install --cask frigadehq/tap/yap`]
 - [Zoom](https://zoom.us/) - Zoom Mac client [`brew install --cask zoom`]
 
 ## Media
