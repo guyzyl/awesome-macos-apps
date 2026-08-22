@@ -37,6 +37,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts everywhere [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [Swift Quit](https://swiftquit.com/) - Automatically "quits" applications once the last window is closed [`brew install --cask swift-quit`]
+- [TetherShot](https://tethershot.apoorvdarshan.com/) - Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally.
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
 - [VMware Fusion](https://www.vmware.com/products/fusion.html) - The best VMs for Mac (it's free for personal use) [`brew install --cask vmware-fusion`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
