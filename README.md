@@ -38,6 +38,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
 - [Swift Quit](https://swiftquit.com/) - Automatically "quits" applications once the last window is closed [`brew install --cask swift-quit`]
 - [The Unarchiver](https://theunarchiver.com/) - "Winrar" for Mac [`brew install --cask the-unarchiver`]
+- [Usage HUD](https://hud.thaliabloom.com) - Native menu-bar meter for Claude, Codex, Gemini, Grok, and Ollama usage windows, with a confidence label on every number (paid, $9) [[Download](https://hud.thaliabloom.com)]
 - [VMware Fusion](https://www.vmware.com/products/fusion.html) - The best VMs for Mac (it's free for personal use) [`brew install --cask vmware-fusion`]
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Mac client [`brew install --cask whatsapp`]
 - [Zoom](https://zoom.us/) - Zoom Mac client [`brew install --cask zoom`]
