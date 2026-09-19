@@ -23,6 +23,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Utilities
 
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Desktop shell for macOS 26 with a sidebar dock, launcher, dashboard and control centre [`brew tap Silvertree2010/apolloshell && brew install apolloshell`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
