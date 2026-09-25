@@ -45,6 +45,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Media
 
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
+- [Libratory](https://libratory.dev) - Turn your PDFs into audiobooks and read along on the page, all on-device [`brew install --cask subev/libratory/libratory`]
 - [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 
