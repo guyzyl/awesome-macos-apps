@@ -26,6 +26,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
+- [DisplayPilot](https://huayanming.github.io/displaypilot/?src=awesome-macos-apps) - External display brightness, colour and scrolling; falls back to the CoreGraphics gamma table when DDC/CI does not answer. Paid, 14-day full trial [`brew install --cask huayanming/tap/displaypilot`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [[Download](https://intellibar.app/dl.html)]
