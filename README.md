@@ -66,7 +66,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
 - [Visual Studio Code](https://code.visualstudio.com/) - Best IDE software ever [`brew install --cask visual-studio-code`]
 - [Warp](https://www.warp.dev/) - A very fast terminal with neat modern features [`brew install --cask warp`]
-- [Wireshark](wireshark.org/) - The best networks protocol analyzer/sniffer [`brew install --cask wireshark`]
+- [Wireshark](https://wireshark.org/) - The best networks protocol analyzer/sniffer [`brew install --cask wireshark`]
 
 ## Dev - Framework Specific
 
