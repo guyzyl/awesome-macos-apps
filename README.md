@@ -24,6 +24,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
+- [MacClean](https://thulem.com/) - Freemium macOS disk cleaner: WeChat/Xcode caches and storage junk with preview before delete (Pro ¥98) [`brew install --cask jinglings/macclean/macclean`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
