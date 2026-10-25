@@ -30,6 +30,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [[Download](https://intellibar.app/dl.html)]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
+- [Ledge](https://ledgeapp.dev/) - Now playing, a timer, your next meeting and weather in the MacBook notch [`brew install --cask egemertbalcik/tap/ledge`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [`brew install --cask macmediakeyforwarder`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
