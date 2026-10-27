@@ -85,6 +85,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Bash
 
 - [act](https://github.com/nektos/act) - Run GitHub Actions locally [`brew install act`]
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only [`brew install nuanu-ai/tap/apn`]
 - [Bash](https://www.gnu.org/software/bash/) - Mac comes with an old Bash version, install the latest one [`brew install bash`]
 - [Bash Git Prompt](https://github.com/magicmonty/bash-git-prompt) - Show git status in command prompt [`brew install bash-git-prompt`]
 - [Bat](https://github.com/sharkdp/bat) - A `cat` clone with syntax highlighting [`brew install bat`]
