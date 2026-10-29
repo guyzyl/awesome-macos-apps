@@ -27,6 +27,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
+- [Espresso](https://espressoformac.com) - Everything-style instant file search across every disk, including disks that aren't connected, free for personal use [`brew install --cask mokasolutions/tap/espresso-search`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
 - [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [[Download](https://intellibar.app/dl.html)]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
