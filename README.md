@@ -25,6 +25,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
+- [BetterPad](https://novasynapse.com/products/betterpad/) - Separate scroll direction for mouse and trackpad, smooth scrolling, and customizable multi-finger gestures [[Download](https://novasynapse.com/products/betterpad/)]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
