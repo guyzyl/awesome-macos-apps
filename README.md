@@ -45,6 +45,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Media
 
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
+- [Murmur](https://www.murmurtts.com/) - Offline text-to-speech that turns any text into natural speech, with voice cloning [[Download](https://www.murmurtts.com/)]
 - [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 
