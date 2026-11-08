@@ -25,9 +25,11 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
 - [Arc](https://arc.net/) - The best web browser ever [`brew install --cask arc`]
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity HUD and menu bar companion [`brew install --cask yvsleyen00941/tap/cockpit`]
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker in the empty corner beside the Dock [`brew install --cask yvsleyen00941/tap/tape`]
 - [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [[Download](https://intellibar.app/dl.html)]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
@@ -54,6 +56,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Bear Notes](https://bear.app/) - A very simple, comprehensive and beautiful notes app for Mac [[Download](https://apps.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)]
 - [Microsoft Office](https://www.office.com/) - You know what it is [[Download](https://apps.apple.com/us/app-bundle/microsoft-365/id1450038993?mt=12)]
 - [Notion](https://www.notion.so/) - Uber comprehensive "all-in-one" workplace(?) [`brew install --cask notion`]
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free reading engine with frosted-ice focus backdrop for PDF, EPUB, and Markdown [`brew install --cask yvsleyen00941/tap/rime`]
 
 ## Dev
 
