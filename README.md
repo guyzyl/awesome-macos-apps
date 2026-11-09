@@ -61,6 +61,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
 - [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
 - [Insomnia](https://insomnia.rest/products/insomnia) - Clean API client and design tool [`brew install --cask insomnia`]
+- [KaidoPlan](https://ai.cygnusyang.top/kaidoplan/) - Local-first project planner with WBS, critical path, and MCP for AI agents [`brew install --cask cygnusyang/kaidoplan/kaidoplan`]
 - [Sourcetree](https://www.sourcetreeapp.com/) - Clean and simple Git client app [`brew install --cask sourcetree`]
 - [Sublime Text](https://www.sublimetext.com/) - Really simple and good text/code editor [`brew install --cask sublime-text`]
 - [TablePlus](https://tableplus.com/) - A clean GUI app for relational database [`brew install --cask tableplus`]
