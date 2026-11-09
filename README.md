@@ -21,6 +21,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 8. [Chrome Extensions](#chrome-extensions)
 
 ## Utilities
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac, beside the Dock.
 
 - [Android File Transfer](https://www.android.com/filetransfer/) - Need to transfer files to you Android device? Download this first [`brew install --cask android-file-transfer`]
 - [App Cleaner](https://freemacsoft.net/appcleaner/) - Cleans up the files left behind after deleting apps [`brew install --cask appcleaner`]
