@@ -92,6 +92,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [The Fuck](https://github.com/nvbn/thefuck) - "Autocorrect" for bash [`brew install thefuck`]
 - [htop](https://htop.dev/) - Process manager for bash [`brew install htop`]
 - [k9s](https://k9scli.io/) - Awesome and comprehensive CLI manager for Kubernetes [`brew install k9s`]
+- [Mole](https://github.com/tw93/Mole) - Deep clean caches and app leftovers, uninstall apps and analyze disk usage [`brew install mole`]
 - [tldr](https://github.com/tldr-pages/tldr) - tl;dr for bash commands [`brew install tldr`]
 - [The Ultimate vimrc](https://github.com/amix/vimrc) - Pre-baked awesome Vim configuration [[Install](https://github.com/amix/vimrc#how-to-install-the-awesome-version)]
 - [Vim](https://neovim.io/) - The best CLI text/code editor [`brew install neovim`]
