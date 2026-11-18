@@ -28,6 +28,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Cyberduck](https://cyberduck.io/) - A good FTP client for Mac [`brew install --cask cyberduck`]
 - [Dozer](https://github.com/Mortennn/Dozer) - Hides menu bar icons for a cleaner menu bar [`brew install --cask dozer`]
 - [Google Drive](https://www.google.com/drive/) - Easy cloud storage and sync [`brew install --cask google-drive`]
+- [Headphone Control](https://kulaklikkontrol.github.io/) - Menu bar app to switch noise cancelling/ambient, tweak EQ and see battery of Sony Bluetooth headphones without the phone app (free beta; only WH-1000XM5 tested so far) [[TestFlight](https://testflight.apple.com/join/e7S1TqA1)]
 - [IntelliBar](https://intellibar.app/) - Keyboard shortcut to add GPT magic to any text you select on your Mac [[Download](https://intellibar.app/dl.html)]
 - [Itsycal](https://www.mowglii.com/itsycal/) - A tiny menu bar calendar [`brew install --cask itsycal`]
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
