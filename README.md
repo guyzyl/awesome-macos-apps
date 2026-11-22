@@ -57,6 +57,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 
 ## Dev
 
+- [AllPet](https://github.com/haverainlilili/all-pet) - Desktop pet that watches your AI coding agents (Codex, Claude Code, DSH, Grok) and wakes tasks
 - [Fira Code](https://github.com/tonsky/FiraCode) - An open-source font designed specifically for better and easier code readability [`brew tap homebrew/cask-fonts && brew install --cask font-fira-code` + [this](https://github.com/tonsky/FiraCode/wiki#enabling-ligatures)]
 - [GitHub Desktop](https://desktop.github.com/) - Git client app for GitHub [`brew install --cask github`]
 - [HexEdit](https://hextedit.app/) - Fast and native hex editor [[Install](https://apps.apple.com/us/app/hextedit/id1557247094?mt=12&itsct=apps_box&itscg=30200)]
