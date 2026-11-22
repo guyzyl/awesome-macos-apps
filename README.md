@@ -45,6 +45,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 ## Media
 
 - [IINA](https://iina.io/) - Modern clean and native media player [`brew install --cask iina`]
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose and edit videos from editable plan.json timelines. Install from source.
 - [Plex Media Server](https://www.plex.tv/) - Best media server out there [`brew install --cask plex-media-server`]
 - [Spotify](https://www.spotify.com/) - Free music! [`brew install --cask spotify`]
 
