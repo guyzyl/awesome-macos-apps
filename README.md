@@ -33,6 +33,7 @@ After going over a few and testing stuff out, this is an opinionated list of **t
 - [Maccy](https://github.com/p0deje/Maccy) - Clean and simple clipboard manager [`brew install --cask maccy`]
 - [MacMediaKeyForwarder](https://github.com/quentinlesceller/macmediakeyforwarder) - Make the pause/next buttons work on Spotify and other media players [`brew install --cask macmediakeyforwarder`]
 - [Motrix](https://motrix.app/) - A fast download manager (also does torrents) [`brew install --cask motrix`]
+- [Orkas](https://orkas.ai/?source=gh_guyzyl) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [Rectangle](https://rectangleapp.com/) - Windows-like window management with nice keyboard shortcuts [`brew install --cask rectangle`]
 - [Rocket](https://matthewpalmer.net/rocket/) - Slack like emoji shortcuts everywhere [`brew install --cask rocket`]
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/) - Gives the option for having different scroll direction for the trackpad and an external mouse [`brew install --cask scroll-reverser`]
